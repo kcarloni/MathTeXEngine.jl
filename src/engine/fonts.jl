@@ -155,11 +155,11 @@ const default_font_families = Dict(
     ),
     "TeXGyrePagella" => FontFamily(
         Dict(
-            :regular => joinpath("TeXGyrePagellaMTE", "TeXGyrePagellaMTE-Regular.otf"),
-            :italic => joinpath("TeXGyrePagellaMTE", "TeXGyrePagellaMTE-Italic.otf"),
-            :bold => joinpath("TeXGyrePagellaMTE", "TeXGyrePagellaMTE-Bold.otf"),
-            :bolditalic => joinpath("TeXGyrePagellaMTE", "TeXGyrePagellaMTE-BoldItalic.otf"),
-            :math => joinpath("TeXGyrePagellaMTE", "TeXGyrePagellaMTE-Math.otf"),
+            :regular => joinpath("TeXGyrePagellaMTE", "TexGyrePagellaMTE-Regular.otf"),
+            :italic => joinpath("TeXGyrePagellaMTE", "TexGyrePagellaMTE-Italic.otf"),
+            :bold => joinpath("TeXGyrePagellaMTE", "TexGyrePagellaMTE-Bold.otf"),
+            :bolditalic => joinpath("TeXGyrePagellaMTE", "TexGyrePagellaMTE-BoldItalic.otf"),
+            :math => joinpath("TeXGyrePagellaMTE", "TexGyrePagellaMTE-Math.otf"),
         )
     ),
     "LucioleMath" => FontFamily(
